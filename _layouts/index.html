@@ -1,9 +1,32 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
   {% include header.partial %}
 </head>
 
 <body>
-  {{ content }}
+  <div class="container">
+  
+    <div class="masthead">
+      <ul class="nav nav-pills pull-right">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <h3 class="muted">ICAT Hack</h3>
+    </div>
+    
+    <hr>
+    
+    <div class="jumbotron">
+      <h1>Mobile Appropriate Technology<br>Workshop and Hackathon</h1>
+      <p class="lead">Expanding the international conversation on the place of mobile tech in appropriate technology projects.</p>
+    </div>
+    
+    <hr>
+
+    {{ content }}
+    
+  </div>
 </body>
 </html>
