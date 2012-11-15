@@ -17,7 +17,7 @@ that are
 
 ### Presenters:
 
-<div class="presenter-start"></div>
+<div class="presenter-start">-</div>
 Jabu Mtsweni
 
 *Jabu Mtsweni* is a Senior Lecturer and Researcher @ UNISA in the field of
@@ -27,7 +27,7 @@ Currently,completing his PhD studies in Computer Science with the University of
 South Africa. His PhD focuses on the engineering of intelligent semantic
 services.
 
-<div class="presenter-start"></div>
+<div class="presenter-start">-</div>
 ![Angela Oduor](images/angela_oduor.jpg)
 
 *Angela Oduor* a software developer with Ushahidi, non-profit tech company, born
@@ -38,7 +38,7 @@ Information Technology. Her work at Ushahidi involves developing web
 applications on the Ushahidi platform, and providing technical support to users
 of Ushahidi's cloud based system, Crowdmap.
 
-<div class="presenter-start"></div>
+<div class="presenter-start">-</div>
 ![Mjumbe Poe](images/mjumbe_poe.jpg)
 
 *Mjumbe Poe* is a software developer working from Philadelphia with OpenPlans, a
@@ -47,7 +47,7 @@ America fellow on the Philadelphia and Seattle city teams. He has a passion for
 projects that allow people to better use and affect their environments. Recent
 projects include Councilmatic and Shareabouts.
 
-<div class="presenter-start"></div>
+<div class="presenter-start">-</div>
 E. Osei-Poku
 
 *E. Osei-Poku*

@@ -1,5 +1,7 @@
 .presenter-start {
     clear: both;
+    height: 0px;
+    overflow: hidden;
 }
 
 .presenter-start + p > img {
