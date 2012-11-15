@@ -2,6 +2,6 @@
     clear: both;
 }
 
-.presenter-start + img {
+.presenter-start + p > img {
     float: left;
 }
