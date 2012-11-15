@@ -1,0 +1,7 @@
+.presenter-start {
+    clear: both;
+}
+
+.presenter-start + img {
+    float: left;
+}
