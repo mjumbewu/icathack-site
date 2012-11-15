@@ -26,7 +26,7 @@ Currently,completing his PhD studies in Computer Science with the University of
 South Africa. His PhD focuses on the engineering of intelligent semantic
 services.
 
-![Angela Oduor](/images/angela_oduor.jpg)
+![Angela Oduor](images/angela_oduor.jpg)
 
 *Angela Oduor* a software developer with Ushahidi, non-profit tech company, born
 in Africa, which specializes in developing free and open source software for
@@ -36,7 +36,7 @@ Information Technology. Her work at Ushahidi involves developing web
 applications on the Ushahidi platform, and providing technical support to users
 of Ushahidi's cloud based system, Crowdmap.
 
-![Mjumbe Poe](/images/mjumbe_poe.jpg)
+![Mjumbe Poe](images/mjumbe_poe.jpg)
 
 *Mjumbe Poe* is a software developer working from Philadelphia with OpenPlans, a
 NY-based organization dedicated to making cities better. He was a 2011 Code for
