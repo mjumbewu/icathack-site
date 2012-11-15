@@ -53,4 +53,11 @@ E. Osei-Poku
 *E. Osei-Poku*
 
 
+### Schedule:
+
+The workshop is scheduled for Tuesday, 20 November 2012 at 2:00 PM.
+
+  Time  |   Test    
+--------|-----------
+  2:00  | Something 
 
