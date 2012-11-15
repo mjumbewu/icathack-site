@@ -57,7 +57,17 @@ E. Osei-Poku
 
 The workshop is scheduled for Tuesday, 20 November 2012 at 2:00 PM.
 
-  Time  |   Test    
---------|-----------
-  2:00  | Something 
+  Time  |
+--------|--------
+  2:00  | Welcome & Introduction
+--------|--------
+  2:15  | Brief Presentations
+        | Our four presenters will take about 20 minutes each to explain their
+        | work, how they use mobile technology to empower people, and how the 
+        | environment into which the projects were deployed contributed to their
+        | effectiveness
+--------|--------
+  3:15  | Break
+--------|--------
+  3:30  | 
 
