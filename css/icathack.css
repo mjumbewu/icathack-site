@@ -4,8 +4,15 @@
     overflow: hidden;
 }
 
-.presenter-start + p > img {
+.presenter-start + p {
     float: left;
+    margin: -10px 0 0 -10px;
+    border: 10px solid white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.presenter-start + p > img {
 }
 
 /* Main message and support button */
