@@ -25,7 +25,8 @@ The workshop is scheduled for Tuesday, 20 November 2012 at 2:00 PM.
   2:00  | Welcome & Introduction
   2:15  | [Brief Presentations](#Presenters)
   3:15  | Break
-  3:30  | 
+  3:30  | Mobile Design Exercise
+  4:30  | Wrap up
   
 ### Presenters
 
