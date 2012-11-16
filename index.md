@@ -20,14 +20,11 @@ that are
 
 The workshop is scheduled for Tuesday, 20 November 2012 at 2:00 PM.
 
-  Time  |
+  Time  | Event
 --------|--------
   2:00  | Welcome & Introduction
---------|--------
   2:15  | [Brief Presentations](#Presenters)
---------|--------
   3:15  | Break
---------|--------
   3:30  | 
   
 ### Presenters
