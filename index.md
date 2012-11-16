@@ -4,8 +4,6 @@ title: ICAT Hack
 ---
 
 
-<a class="btn btn-large btn-success" href="http://igg.me/p/270632?a=1716373">Support the Event!</a>
-
 <div class="row-fluid frontmatter">
   <div class="span6">
     <h4>Workshop</h4>
