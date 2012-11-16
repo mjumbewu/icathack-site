@@ -13,7 +13,7 @@ environmental health. We want participants to leave with ideas of what's
 possible and what some of the successes and pitfalls people have experienced are.
 
 The workshop will feature presenters from several projects and organizations
-that are 
+that are working on mobile empowerment tools.
 
 
 ### Schedule:
