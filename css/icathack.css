@@ -6,10 +6,15 @@
 
 .presenter-start + p {
     float: left;
-    margin: -10px 0 0 -10px;
-    border: 10px solid white;
-    border-radius: 20px;
+    margin: 0 1em 1em 0;
+
+    border-radius: 100px;
     overflow: hidden;
+    
+    width: 200px;
+    height:200px;
+    text-align: center;
+    line-height: 200px;
 }
 
 .presenter-start + p > img {
