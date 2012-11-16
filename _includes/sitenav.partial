@@ -1,0 +1,8 @@
+<div class="masthead">
+  <ul class="nav nav-pills pull-right">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="workshop.html">Workshop</a></li>
+    <li><a href="hackathon.html">Hackathon</a></li>
+  </ul>
+  <h3 class="muted">ICAT Hack</h3>
+</div>
