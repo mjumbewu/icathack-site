@@ -16,3 +16,11 @@
 .container-narrow > hr {
   margin: 30px 0;
 }
+
+/* Supporting front page content */
+.frontmatter {
+  margin: 60px 0;
+}
+.frontmatter p + h4 {
+  margin-top: 28px;
+}
