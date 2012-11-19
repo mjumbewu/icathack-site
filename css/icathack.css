@@ -5,8 +5,7 @@
 }
 
 .presenter-start + p {
-    float: left;
-    margin: 0 1em 1em 0;
+    margin: 0 auto 1em auto;
 
     border-radius: 100px;
     overflow: hidden;
@@ -40,4 +39,11 @@
 }
 .frontmatter p + h4 {
   margin-top: 28px;
+}
+
+@media only screen and (min-width: 480px) {
+  .presenter-start + p {
+      float: left;
+      margin: 0 1em 1em 0;
+  }
 }
