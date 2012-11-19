@@ -48,7 +48,7 @@ services.
 <div class="presenter-start">-</div>
 ![Angela Oduor](images/angela_oduor.jpg)
 
-*Angela Oduor* a software developer with Ushahidi, non-profit tech company, born
+*Angela Oduor* is a software developer with Ushahidi, non-profit tech company, born
 in Africa, which specializes in developing free and open source software for
 information collection, interactive mapping and data curation. She is a recent
 First Class honors graduate from Strathmore University with a degree in Business
@@ -66,7 +66,13 @@ projects that allow people to better use and affect their environments. Recent
 projects include Councilmatic and Shareabouts.
 
 <div class="presenter-start">-</div>
-E. Osei-Poku
+![E. Osei-Poku](images/e_osei_poku.jpg)
 
-*E. Osei-Poku*
+*Ernest Osei-Poku* is the Product Manager at Esoko where he leads a young group
+of product designers. They innovate, develop and build technology solutions (web
+& mobile) which address specific market challenges in Africa. Esoko is providing
+agric-based mobile solutions in 16 African countries. He is a double Master's
+Degree holder in Information Technology and Management Information Systems from
+the University of Salford, UK. Osei recently moved back to Ghana with his wife
+and two young children.
 
