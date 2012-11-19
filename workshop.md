@@ -36,7 +36,7 @@ environment into which the projects were deployed contributed to their
 effectiveness.
 
 <div class="presenter-start">-</div>
-Jabu Mtsweni
+![Jabu Mtsweni](images/jabu_mtsweni.jpg)
 
 *Jabu Mtsweni* is a Senior Lecturer and Researcher @ UNISA in the field of
 Computer Science and Information Systems. He holds a Master's Degree in Computer
