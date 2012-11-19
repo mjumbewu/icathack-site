@@ -13,6 +13,7 @@ body {
 
 #footer {
   height: 100px;
+  clear: both;
 }
 
 .presenter-start {
