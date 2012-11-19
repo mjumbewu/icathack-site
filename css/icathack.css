@@ -59,6 +59,15 @@ body {
   margin-top: 28px;
 }
 
+.sponsor.visible {
+  margin: 2em auto;
+  font-weight: bold;
+}
+
+.sponsor {
+  display: block;
+}
+
 @media only screen and (min-width: 480px) {
   .presenter-start + p {
       float: left;
