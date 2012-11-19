@@ -1,3 +1,20 @@
+body {
+  height: 100%;
+}
+
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  
+  /* Offset height be the footer height */
+  margin: 0 auto -100px;
+}
+
+#footer {
+  height: 100px;
+}
+
 .presenter-start {
     clear: both;
     height: 0px;

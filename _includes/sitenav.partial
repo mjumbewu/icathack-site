@@ -1,9 +1,16 @@
-<div class="masthead">
-  <ul class="nav nav-pills pull-right">
-    <li><a href="index.html">Home</a></li>
-    <li><a href="workshop.html">Workshop</a></li>
-    <li><a href="hackathon.html">Hackathon</a></li>
-    <li><a href="http://igg.me/p/270632?a=1716373" target="_blank">Support!</a></li>
-  </ul>
-  <h3 class="muted">ICAT Hack</h3>
+<div id="header">
+  <div class="container-narrow">
+    <div class="masthead">
+      <ul class="nav nav-pills pull-right">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="workshop.html">Workshop</a></li>
+        <li><a href="hackathon.html">Hackathon</a></li>
+        <li><a href="http://igg.me/p/270632?a=1716373" target="_blank">Support!</a></li>
+      </ul>
+      <h3 class="muted">ICAT Hack</h3>
+    </div>
+
+    <hr>
+    
+  </div>
 </div>

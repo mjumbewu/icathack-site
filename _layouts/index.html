@@ -49,21 +49,25 @@
 </head>
 
 <body>
-  <div class="container-narrow">
-  
+  <div id="wrap">
+
     {% include sitenav.partial %}
+      
+    <div class="container-narrow">
     
-    <hr>
-    
-    <div class="jumbotron">
-      <h1>Mobile Appropriate Technology<br>Workshop and Hackathon</h1>
-      <p class="lead">Expanding the international conversation on the place of mobile tech in appropriate technology projects.</p>
-      <a class="btn btn-large btn-success" href="http://igg.me/p/270632?a=1716373" target="_blank">Support the Event!</a>
+      <div class="jumbotron">
+        <h1>Mobile Appropriate Technology<br>Workshop and Hackathon</h1>
+        <p class="lead">Expanding the international conversation on the place of mobile tech in appropriate technology projects.</p>
+        <a class="btn btn-large btn-success" href="http://igg.me/p/270632?a=1716373" target="_blank">Support the Event!</a>
+      </div>
+      
+      <hr>
+
+      {{ content }}
+      
     </div>
     
-    <hr>
-
-    {{ content }}
+    {% include footer.partial %}
     
   </div>
 </body>
