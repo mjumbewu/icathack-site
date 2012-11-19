@@ -3,7 +3,20 @@
   
     <hr>
     
-    This is a test.
+    <div id="sponsors">
+      <p>Sponsored by:
+        <span class="sponsor visible"><img src="images/openplans_logo.png" alt="OpenPlans"></span>
+        <span class="sponsor visible"><img src="images/esoko_logo.png" alt="Esoko"></span>
+        <span class="sponsor visible"><img src="images/ushahidi_logo.png" alt="Ushahidi"></span>
+        <span class="sponsor visible">Evelyn Y. Davis-Poe</span>
+        <span class="sponsor visible">Ruben Arenas</span>
+        <span class="sponsor tangible">Bakari Chavanu</span>
+        <span class="sponsor tangible">Molefi Kete Asante</span>
+        <span class="sponsor tangible">Ruben and Gina Arenas</span>
+        <span class="sponsor tangible">Tayarisha Poe</span>
+        <span class="sponsor tangible">John Mertens</span>
+      </p>
+    </div>
   </div>
 </div>
 
