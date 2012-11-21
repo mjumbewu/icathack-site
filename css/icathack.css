@@ -60,8 +60,12 @@ body {
 }
 
 /* Sponsors in the footer */
-p .sponsors {
+.sponsors p {
   text-align: center;
+}
+
+.sponsors p:first-child {
+  text-align: left;
 }
 
 .sponsor.visible {
