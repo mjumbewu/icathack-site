@@ -69,9 +69,13 @@ body {
 }
 
 .sponsor.visible {
-  margin: 2em 1em;
+  margin: 1em auto;
   font-weight: bold;
   display: inline-block;
+}
+
+.sponsor.visible.logo {
+  min-width: 300px;
 }
 
 .sponsor.visible.name {
