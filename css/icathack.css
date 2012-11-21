@@ -60,16 +60,16 @@ body {
 }
 
 /* Sponsors in the footer */
-.sponsors p {
+#sponsors p {
   text-align: center;
 }
 
-.sponsors p:first-child {
+#sponsors p:first-child {
   text-align: left;
 }
 
 .sponsor.visible {
-  margin: 2em;
+  margin: 2em 1em;
   font-weight: bold;
   display: inline-block;
 }
