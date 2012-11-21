@@ -65,13 +65,18 @@ p .sponsors {
 }
 
 .sponsor.visible {
-  margin: 2em auto;
+  margin: 2em;
   font-weight: bold;
+  display: inline-block;
+}
+
+.sponsor.visible.name {
   display: block;
 }
 
 .sponsor.tangible {
   margin: 1em;
+  display: inline-block;
 }
 
 @media only screen and (min-width: 480px) {
