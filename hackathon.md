@@ -27,7 +27,7 @@ University of Pretoria's Blackberry Lab.
 Where: University of Pretoria's Blackberry Lab
 
   Time     | Event
-:---------:|:-------
+----------:|:-------
   9:00 AM  | Arrival - Coffee & Tea
  10:00 AM  | Welcome & Introductions
     -      | Problem/Solution Proposals
@@ -39,7 +39,7 @@ Where: University of Pretoria's Blackberry Lab
 Where: University of Pretoria's Blackberry Lab
 
   Time     | Event
-:---------:|:-------
+----------:|:-------
   9:00 PM  | Light breakfast
     -      | Project Design & Development
   5:00 PM  | 1st-round Judging and Awards
