@@ -32,7 +32,8 @@ Where: University of Pretoria's Blackberry Lab
  10:00 AM  | Welcome & Introductions
     -      | [Problem/Solution Proposals](#Proposals)
     -      | Brainstorming & Project Definitions
-  7:00 PM  | Hackathon Reception
+
+On Friday, we will go as late as project teams want to stay and work.
   
 #### Saturday, 24 November
 
