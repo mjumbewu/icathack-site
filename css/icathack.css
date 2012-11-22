@@ -18,7 +18,23 @@ body {
 }
 
 td {
-  padding: 0.25em 1em 0.25em 0;
+  padding: 0.25em 1em;
+}
+
+td:first-child {
+  font-weight: bold;
+  color: grey;
+  border-right: 2px solid grey;
+  padding-left: 0;
+}
+
+th {
+  text-align: left;
+  border-bottom: 2px solid grey;
+}
+
+th:first-child {
+  text-align: center;
 }
 
 .presenter-start {

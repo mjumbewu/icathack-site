@@ -6,12 +6,19 @@ title: ICAT Hack
 
 ## Mobile Technology Hackathon
 
-The Mobile Technology workshop at the International Conference on Appropriate Technology 
+On Tuesday, 20 November we held a [workshop](workshop.html) on uses of mobile
+computing and telephony devices in appropriate technology work. We heard
+multiple examples of how this tech is being used to empower people in areas of
+community planning, aggricultural economics, public transportation, natural
+disaster response, and more. We followed up with a brief brainstorming period
+where we thought of some ideas for new projects and applications that could be
+developed in this area.
+
 During the hackathon, we will build on the information presented and the ideas
-developed at the [workshop](workshop.html). Technologists from the Pretoria area
-and from all over the world will collaborate with scholars and practitioners
-from the appropriate technology conference to start to build projects inspired
-by the ideas of appropriate technology.
+developed at the workshop. Technologists from the Pretoria area and from all
+over the world will collaborate with scholars and practitioners from the
+appropriate technology conference to start to build projects inspired by the
+ideas of appropriate technology.
 
 Please [RSVP](http://icathack.eventbrite.com/).
 
@@ -27,12 +34,13 @@ University of Pretoria's Blackberry Lab.
 Where: University of Pretoria's Blackberry Lab
 
   Time     | Event
-----------:|:-------
+:---------:|:-------
   9:00 AM  | Arrival - Coffee & Tea
  10:00 AM  | Welcome & Introductions
     -      | [Problem/Solution Proposals](#Proposals)
     -      | Brainstorming & Project Definitions
-
+    -      | Project Design & Development
+  
 On Friday, we will go as late as project teams want to stay and work.
   
 #### Saturday, 24 November
@@ -40,7 +48,7 @@ On Friday, we will go as late as project teams want to stay and work.
 Where: University of Pretoria's Blackberry Lab
 
   Time     | Event
-----------:|:-------
+:---------:|:-------
   9:00 AM  | Light breakfast
     -      | Project Design & Development
   5:00 PM  | 1st-round Judging and Awards
