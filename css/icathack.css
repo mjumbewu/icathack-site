@@ -31,7 +31,7 @@ td:first-child {
 th {
   text-align: left;
   border-bottom: 2px solid grey;
-  padding: auto 1em;
+  padding: 0.25em 1em;
 }
 
 th:first-child {
