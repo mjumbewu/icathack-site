@@ -68,7 +68,7 @@ projects include Councilmatic and Shareabouts.
 <div class="presenter-start">-</div>
 ![E. Osei-Poku](images/e_osei_poku.jpg)
 
-*Ernest Osei-Poku* is the Product Manager at Esoko where he leads a young group
+*E. Osei-Poku* is the Product Manager at Esoko where he leads a young group
 of product designers. They innovate, develop and build technology solutions (web
 & mobile) which address specific market challenges in Africa. Esoko is providing
 agric-based mobile solutions in 16 African countries. He is a double Master's
