@@ -40,7 +40,7 @@ Where: University of Pretoria's Blackberry Lab
 
   Time     | Event
 ----------:|:-------
-  9:00 PM  | Light breakfast
+  9:00 AM  | Light breakfast
     -      | Project Design & Development
   5:00 PM  | 1st-round Judging and Awards
 
