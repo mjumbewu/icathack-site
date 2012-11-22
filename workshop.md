@@ -18,7 +18,8 @@ that are working on mobile empowerment tools.
 
 ### Schedule:
 
-The workshop is scheduled for Tuesday, 20 November 2012 at 2:00 PM.
+The workshop took place on Tuesday, 20 November 2012 at 2:00 PM at the St.
+George conference center outside of Pretoria, South Africa.
 
   Time  | Event
 --------|--------
