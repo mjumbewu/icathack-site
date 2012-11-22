@@ -30,7 +30,7 @@ Where: University of Pretoria's Blackberry Lab
 ----------:|:-------
   9:00 AM  | Arrival - Coffee & Tea
  10:00 AM  | Welcome & Introductions
-    -      | Problem/Solution Proposals
+    -      | [Problem/Solution Proposals](#Proposals)
     -      | Brainstorming & Project Definitions
   7:00 PM  | Hackathon Reception
   
@@ -66,7 +66,10 @@ updated.
 
 ### Proposals
 
-
+We'll start the day off with project pitches. If there is a problem that you
+think should be addressed, or a solution that you'd like to see implemented,
+come and pitch it to the hackathon participants. Not all projects pitched will
+be worked on, but projects with a champion are more likely to move forward.
 
 
 
