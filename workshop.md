@@ -22,7 +22,7 @@ The workshop took place on Tuesday, 20 November 2012 at 2:00 PM at the St.
 George conference center outside of Pretoria, South Africa.
 
   Time  | Event
---------|--------
+:------:|:-------
   2:00  | Welcome & Introduction
   2:15  | [Brief Presentations](#Presenters)
   3:15  | Break
