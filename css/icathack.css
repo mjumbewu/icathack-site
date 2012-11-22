@@ -17,6 +17,10 @@ body {
   clear: both;
 }
 
+td {
+  padding: 0.25em 1em 0.25em 0;
+}
+
 .presenter-start {
     clear: both;
     height: 0px;
