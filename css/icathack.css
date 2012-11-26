@@ -17,6 +17,10 @@ body {
   clear: both;
 }
 
+table {
+  margin: 1em auto;
+}
+
 td {
   padding: 0.25em 1em;
 }

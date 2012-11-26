@@ -29,9 +29,7 @@ Please [RSVP](http://icathack.eventbrite.com/).
 The hackathon will take place on Friday and Saturday, 23-24 November 2012 at the
 University of Pretoria's Blackberry Lab.
 
-#### Friday, 23 November
-
-Where: University of Pretoria's Blackberry Lab
+#### Friday, 23 November, University of Pretoria's Blackberry Lab
 
   Time     | Event
 :---------:|:-------
@@ -41,11 +39,7 @@ Where: University of Pretoria's Blackberry Lab
     -      | Brainstorming & Project Definitions
     -      | Project Design & Development
   
-On Friday, we will go as late as project teams want to stay and work.
-  
-#### Saturday, 24 November
-
-Where: University of Pretoria's Blackberry Lab
+#### Saturday, 24 November, University of Pretoria's Blackberry Lab
 
   Time     | Event
 :---------:|:-------
@@ -53,18 +47,14 @@ Where: University of Pretoria's Blackberry Lab
     -      | Project Design & Development
   5:00 PM  | 1st-round Judging and Awards
 
-#### Saturday and Sunday, 1-2 December
-
-Where: Worldwide
+#### Saturday and Sunday, 1-2 December, Worldwide
 
 Take advantage of local Random Hacks of Kindness events to continue work on your
 projects. Refer to the [RHoK site](http://www.rhok.org/) to find an event near
 you. Use Skype or Google+ to coordinate with teams established at the U.
 Pretoria event.
   
-#### Monday, 17 December
-
-Where: Worldwide
+#### Monday, 17 December, Worldwide
 
 The final round of judging will take place. See more information about the
 [criteria and prizes](#Judging) below. Awards will be announced on Twitter and
