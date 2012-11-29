@@ -71,18 +71,22 @@ worked on.
 From the earlier workshop, several ideas were proposed.
 
 *Security alerts service*
+
 * Updated in real-time
 * People can subscribe so that they know what areas to avoid
 
 *Pest infestation*
+
 * Create a rapid warning system to farmers
 
 *Know your rights*
+
 * People know when they've done something wrong, or been wronged, but not what their rights are in each situation
 * Ability to access the laws from the mobile
 * For example: You actually broke the law, 70 on a 40 – you can text, “I broke law here” the text would tell you the reprecussions and/or police procedures.
 
 *Context-appropriate architecture guide*
+
 * A catalog of building materials and methods that are best to use in a particular area
 * Serves as a knowledge base/portal for those who are not native to the area in which they are building
 * Also list the plot coverage/height minimums and other zoning regulations in an area
@@ -104,28 +108,21 @@ be elligible for a prize in this round:
 
 The awards conferred during the second judging round will be as follows:
 
-**Most improved**
+* **Most improved** – Given to the team whose application has seen the most 
+  improvement between the first round of judging and the second.
 
-> Given to the team whose application has seen the most improvement between the
-> first round of judging and the second.
+* **Most likely to succeed** – Given to the application which has the best 
+  deployment plan. The developers have identified partners who can help get the
+  word out to users, and have ideas of how to encourage sustainable adoption by
+  those users.
 
-**Most likely to succeed**
-  
-> Given to the application which has the best deployment plan. The developers
-> have identified partners who can help get the word out to users, and have
-> ideas of how to encourage sustainable adoption by those users.
+* **Best mobile interface(s)** – Given to the team that has the most well 
+  thought-out – and best looking – user interface or interfaces on mobile 
+  devices. This may entail elagant native GUIs, gracefully degrading web-based
+  interfaces, or clear and intuitive SMS interfaces.
 
-**Best mobile interface(s)**
-
-> Given to the team that has the most well thought-out -- and best looking --
-> user interface or interfaces on mobile devices. This may entail elagant native
-> GUIs, gracefully degrading web-based interfaces, or clear and intuitive SMS
-> interfaces.
-
-**Most impactful**
-
-> Given to the team whose application tackles the most significant, most
-> pressing issue.
+* **Most impactful** – Given to the team whose application tackles the most 
+  significant, most pressing issue.
 
 
 ### Registration
