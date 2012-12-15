@@ -97,10 +97,12 @@ be elligible for a prize in this round:
   GitHub or BitBucket
 * Your project must have a site explaining the purpose, usage, and any other
   relevant information about your project. Be sure to include why your project
-  is an example of [appropriate technology](faq.html). The site can be as simple
-  as one page of information. GitHub pages is a good platform for a project
-  site, if that's where your code is hosted. For help on setting up a GH pages
-  site, let us know at hackathon@icathack.org and we can help you out.
+  is an example of
+  [appropriate technology](faq.html#what_is_appropriate_technology). The site
+  can be as simple as one page of information. GitHub pages is a good platform
+  for a project site, if that's where your code is hosted. For help on setting
+  up a GH pages site, let us know at hackathon@icathack.org and we can help you
+  out.
 * Your project itself should also be accessible via the web (or by telephone for
   SMS interfaces) so that judges can access it. If, for some reason, this cannot
   be arranged, you may substitute a video demonstrating project usage.
