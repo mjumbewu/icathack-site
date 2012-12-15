@@ -9,10 +9,10 @@ title: ICAT Hack
 The goal of the workshop is to give participants an introduction to mobile tech
 applications that enable new approaches to issues such as urban and community
 planning, economics and markets, political participation, and personal and
-environmental health. We want participants to leave with ideas of what's
+environmental health. We wanted participants to leave with ideas of what's
 possible and what some of the successes and pitfalls people have experienced are.
 
-The workshop will feature presenters from several projects and organizations
+The workshop featured presenters from several projects and organizations
 that are working on mobile empowerment tools.
 
 
@@ -31,7 +31,7 @@ George conference center outside of Pretoria, South Africa.
   
 ### Presenters
 
-Our four presenters will take about 20 minutes each to explain their
+Our four presenters took about 20 minutes each to explain their
 work, how they use mobile technology to empower people, and how the 
 environment into which the projects were deployed contributed to their
 effectiveness.

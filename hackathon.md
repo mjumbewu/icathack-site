@@ -14,19 +14,14 @@ disaster response, and more. We followed up with a brief brainstorming period
 where we thought of some ideas for new projects and applications that could be
 developed in this area.
 
-During the hackathon, we will build on the information presented and the ideas
-developed at the workshop. Technologists from the Pretoria area and from all
-over the world will collaborate with scholars and practitioners from the
-appropriate technology conference to start to build projects inspired by the
-ideas of appropriate technology.
-
-Please [RSVP](http://icathack.eventbrite.com/).
-
+On Friday and Saturday, 23-24 November we held a hackathon to build on the
+information presented and the ideas developed at the workshop.  The hackathon
+will conclude with a round of judging during the week of 17 December.
 
 
 ### Schedule:
 
-The hackathon will take place on Friday and Saturday, 23-24 November 2012 at the
+The hackathon took place on Friday and Saturday, 23-24 November 2012 at the
 University of Pretoria's Blackberry Lab.
 
 #### Friday, 23 November, University of Pretoria's Blackberry Lab
@@ -38,7 +33,7 @@ University of Pretoria's Blackberry Lab.
     -      | [Problem/Solution Proposals](#proposals)
     -      | Brainstorming & Project Definitions
     -      | Project Design & Development
-  
+
 #### Saturday, 24 November, University of Pretoria's Blackberry Lab
 
   Time     | Event
@@ -53,14 +48,14 @@ Take advantage of local Random Hacks of Kindness events to continue work on your
 projects. Refer to the [RHoK site](http://www.rhok.org/) to find an event near
 you. Use Skype or Google+ to coordinate with teams established at the U.
 Pretoria event.
-  
+
 #### Monday, 17 December, Worldwide
 
-The final round of judging will take place. See more information about the
-[criteria and prizes](#judging) below. Awards will be announced on Twitter and
-on this site. Follow [@approptech](http://www.twitter.com/approptech/) to stay
-updated.
-  
+The final round of judging will take place during this week. See more
+information about the [criteria and prizes](#judging) below. Awards will be
+announced on Twitter and on this site. Follow
+[@approptech](http://www.twitter.com/approptech/) to stay updated.
+
 
 
 ### Proposals
@@ -100,33 +95,39 @@ be elligible for a prize in this round:
 
 * The source for your project must be publicly available on a service such as
   GitHub or BitBucket
-* Your project must have a (simple) site explaining the purpose, usage, and any
-  other relevant information.
-* Your project itself should also be accessible via the web or by telephone so
-  that judges can access it. If, for some reason, this cannot be arranged, you
-  may substitute a video demonstrating project usage.
+* Your project must have a site explaining the purpose, usage, and any other
+  relevant information about your project. Be sure to include why your project
+  is an example of [appropriate technology](faq.html). The site can be as simple
+  as one page of information. GitHub pages is a good platform for a project
+  site, if that's where your code is hosted. For help on setting up a GH pages
+  site, let us know at hackathon@icathack.org and we can help you out.
+* Your project itself should also be accessible via the web (or by telephone for
+  SMS interfaces) so that judges can access it. If, for some reason, this cannot
+  be arranged, you may substitute a video demonstrating project usage.
 
-The awards conferred during the second judging round will be as follows:
+Thanks to our sponsors, we will have around $1000 in awards to disburse. The
+awards conferred during the second judging round will be as follows:
 
-* **Most improved** – Given to the team whose application has seen the most 
-  improvement between the first round of judging and the second.
-
-* **Most likely to succeed** – Given to the application which has the best 
+* **Most likely to succeed** – Given to the application which has the best
   deployment plan. The developers have identified partners who can help get the
   word out to users, and have ideas of how to encourage sustainable adoption by
   those users.
 
-* **Best mobile interface(s)** – Given to the team that has the most well 
-  thought-out – and best looking – user interface or interfaces on mobile 
+* **Best mobile interface(s)** – Given to the team that has the most well
+  thought-out – and best looking – user interface or interfaces on mobile
   devices. This may entail elagant native GUIs, gracefully degrading web-based
   interfaces, or clear and intuitive SMS interfaces.
 
-* **Most impactful** – Given to the team whose application tackles the most 
+* **Most impactful** – Given to the team whose application tackles the most
   significant, most pressing issue.
 
 
 ### Registration
 
-RSVP for the 23-24 November event was taken via 
+RSVP for the 23-24 November event was taken via
 [http://icathack.eventbrite.com/](http://icathack.eventbrite.com/).
 
+To register your project for the December judging (even if you did not
+participate in the November hackathon), email
+[hackathon@icathack.org](mailto:hackathon@icathack.org) by 21 December with your
+a link to your source repository, and to your website.
