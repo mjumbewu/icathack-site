@@ -49,7 +49,7 @@ projects. Refer to the [RHoK site](http://www.rhok.org/) to find an event near
 you. Use Skype or Google+ to coordinate with teams established at the U.
 Pretoria event.
 
-#### Monday, 17 December, Worldwide
+#### The week of 31 January, Worldwide
 
 The final round of judging will take place during this week. See more
 information about the [criteria and prizes](#judging) below. Awards will be
@@ -90,7 +90,7 @@ From the earlier workshop, several ideas were proposed.
 
 ### Judging
 
-Final judging will take place the week of 17 December. In order to
+Final judging will take place the week of 31 January, 2013. In order to
 be elligible for a prize in this round:
 
 * The source for your project must be publicly available on a service such as
