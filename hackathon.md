@@ -16,7 +16,7 @@ developed in this area.
 
 On Friday and Saturday, 23-24 November we held a hackathon to build on the
 information presented and the ideas developed at the workshop.  The hackathon
-will conclude with a round of judging during the week of 17 December.
+will conclude with a round of judging during the week of 31 January, 2013.
 
 
 ### Schedule:
