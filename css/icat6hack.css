@@ -1,0 +1,76 @@
+body {
+  height: 100%;
+  font-family: 'Telex', sans-serif;
+  position: relative;
+}
+
+.other-sections {
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+
+.top-section {
+  text-align: center;
+  z-index: 0;
+}
+
+.navbar {
+  opacity: 0;
+}
+
+.navbar.affix {
+  opacity: 1;
+  top: 0px;
+  width: 100%;
+  z-index: 2;
+}
+
+.navbar-brand {
+  display: none;
+}
+
+.affix .navbar-brand {
+  display: inline;
+}
+
+.navbar.affix + div,
+.navbar.affix + section {
+  padding-top: 72px;
+}
+
+.top-section h1 {
+  font-size: 70px;
+  font-weight: normal;
+}
+
+.top-section img {
+  vertical-align: baseline;
+  height: 54px;
+}
+
+.table {
+  font-size: 1.2em;
+}
+
+.table h3 {
+  font-size: 1em;
+  font-weight: bold;
+  margin: 0;
+}
+
+@media (min-width: 992px) {
+  .top-section h1 {
+    font-size: 140px;
+  }
+
+  .top-section img {
+    vertical-align: baseline;
+    height: 108px;
+  }
+
+  .navbar {
+    border-radius: 0;
+    opacity: 1;
+  }
+}
