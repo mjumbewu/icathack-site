@@ -15,7 +15,7 @@ body {
 }
 
 .other-sections {
-  background-color: white;
+  background-color: #428bca;
   position: relative;
   z-index: 2;
 }
@@ -23,13 +23,20 @@ body {
 .odd.wrapper {
   color: #fff;
   background-color: #428bca;
-  border-color: #357ebd;
-  border-width: 2px 0;
-  border-style: solid;
 }
 
 .odd.wrapper thead tr td {
   background-color: #357ebd;
+}
+
+.even.wrapper {
+  background-color: white;
+}
+
+.even.wrapper {
+  border-color: #357ebd;
+  border-width: 2px 0;
+  border-style: solid;
 }
 
 .wrapper {
