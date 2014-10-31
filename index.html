@@ -213,18 +213,28 @@
     <script src="js/ie10-viewport-bug-workaround.js"></script>
 
     <script>
-      $(function() {
+      function resizeTopSection() {
+        // Reset the top-section styles
+        $('.top-section').css({
+          minHeight: 0,
+          marginLeft: 'auto',
+          position: 'static'
+        });
+        $('body').css({
+          marginTop: 0
+        });
+
         var topSectionMinHeight = (window.innerHeight - 50),
             topSectionLeft = (window.innerWidth - $('.top-section').width()) / 2;
 
-        if ($('.top-section').height() < topSectionMinHeight) {
+        // Override the top section styles if necessary
+        if ($('.top-section').height() <= topSectionMinHeight) {
           $('.top-section').css({
             minHeight: topSectionMinHeight,
             marginLeft: topSectionLeft,
             position: 'fixed',
-            top: 0,
+            top: 0
           });
-
           $('body').css({
             marginTop: $('.top-section').height()
           });
@@ -232,9 +242,14 @@
 
         $('.navbar').affix({
           offset: {
-            top: $('.navbar').offset().top
+            top: $('.top-section').height()
           }
         });
+      }
+
+      $(function() {
+        resizeTopSection();
+        // window.addEventListener('resize', resizeTopSection);
 
         $('a[data-animate]').on('click', function(evt) {
           evt.preventDefault();
