@@ -20,6 +20,23 @@ body {
   z-index: 2;
 }
 
+.odd.wrapper {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #357ebd;
+  border-width: 2px 0;
+  border-style: solid;
+}
+
+.odd.wrapper thead tr td {
+  background-color: #357ebd;
+}
+
+.wrapper {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+
 .top-section {
   position: relative;
   text-align: center;
