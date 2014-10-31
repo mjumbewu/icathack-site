@@ -39,7 +39,8 @@
     </section>
 
     <div class="other-sections">
-      <div class="navbar navbar-inverse" role="navigation">
+      <div class="navbar temporary-navbar"><span class="glyphicon glyphicon-chevron-down"></span></div>
+      <div class="navbar navbar-inverse main-navbar" role="navigation">
         <div class="container">
           <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
@@ -52,8 +53,8 @@
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-              <li><a href="#schedule" data-animate data-offset="50">Schedule</a></li>
               <li><a href="#questions" data-animate data-offset="50">Questions</a></li>
+              <li><a href="#schedule" data-animate data-offset="50">Schedule</a></li>
               <li><a href="#register" data-animate data-offset="50">Attend!</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -218,20 +219,22 @@
         $('.top-section').css({
           minHeight: 0,
           marginLeft: 'auto',
-          position: 'static'
+          position: 'static',
+          padding: 0
         });
         $('body').css({
           marginTop: 0
         });
 
         var topSectionMinHeight = (window.innerHeight - 50),
-            topSectionLeft = (window.innerWidth - $('.top-section').width()) / 2;
+            topSectionInset = (window.innerWidth - $('.top-section').width()) / 2;
 
         // Override the top section styles if necessary
         if ($('.top-section').height() <= topSectionMinHeight) {
           $('.top-section').css({
             minHeight: topSectionMinHeight,
-            marginLeft: topSectionLeft,
+            paddingLeft: topSectionInset,
+            paddingRight: topSectionInset,
             position: 'fixed',
             top: 0
           });

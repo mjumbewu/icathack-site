@@ -41,6 +41,8 @@ body {
   position: relative;
   text-align: center;
   z-index: 1;
+  padding: 0;
+  box-sizing: content-box;
 }
 
 .top-section .btn-primary {
@@ -48,7 +50,21 @@ body {
   margin-top: 1em;
 }
 
-.navbar {
+.temporary-navbar {
+  position: absolute;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  background-color: #c9302c;
+  border-color: #ac2925;
+  border-width: 2px 0;
+  border-style: solid;
+}
+
+.main-navbar {
   opacity: 0;
 
   transition: opacity .25s ease-in-out;
@@ -56,7 +72,7 @@ body {
   -webkit-transition: opacity .25s ease-in-out;
 }
 
-.navbar.affix {
+.main-navbar.affix {
   opacity: 1;
   top: 0px;
   width: 100%;
@@ -75,8 +91,7 @@ body {
   display: inline;
 }
 
-.navbar.affix + div,
-.navbar.affix + section {
+.navbar.affix + .wrapper section {
   padding-top: 72px;
 }
 
