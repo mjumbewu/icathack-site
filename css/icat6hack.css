@@ -25,6 +25,10 @@ body {
   background-color: #428bca;
 }
 
+.odd.wrapper a {
+  color: #fff;
+}
+
 .odd.wrapper thead tr td {
   background-color: #357ebd;
 }
