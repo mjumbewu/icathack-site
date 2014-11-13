@@ -27,6 +27,7 @@ body {
 
 .odd.wrapper a {
   color: #fff;
+  text-decoration: underline;
 }
 
 .odd.wrapper thead tr td {
